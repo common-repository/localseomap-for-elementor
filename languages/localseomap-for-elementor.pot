@@ -1,0 +1,2065 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: LocalSEOMap for Elementor\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-12-09 09:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.0; wp-5.2.4"
+
+#: src/options.php:234
+msgid "1"
+msgstr ""
+
+#: data/widgets/profolio_filter/config.php:22
+msgid "1 Columns"
+msgstr ""
+
+#: src/options.php:235
+msgid "2"
+msgstr ""
+
+#: src/options.php:176
+msgid "2 Column"
+msgstr ""
+
+#: data/widgets/profolio_filter/config.php:21
+msgid "2 Columns"
+msgstr ""
+
+#: src/options.php:236
+msgid "3"
+msgstr ""
+
+#: src/options.php:177
+msgid "3 Column"
+msgstr ""
+
+#: data/widgets/profolio_filter/config.php:20
+msgid "3 Columns"
+msgstr ""
+
+#: src/options.php:237
+msgid "4"
+msgstr ""
+
+#: src/options.php:178
+msgid "4 Column"
+msgstr ""
+
+#: data/widgets/profolio_filter/config.php:19
+msgid "4 Columns"
+msgstr ""
+
+#: src/options.php:238
+msgid "6"
+msgstr ""
+
+#: src/options.php:344
+msgid "Access"
+msgstr ""
+
+#: data/init.php:547
+msgid "Active"
+msgstr ""
+
+#: data/init.php:556
+msgid "active"
+msgstr ""
+
+#: src/options.php:453
+msgid "Add aggregate rating "
+msgstr ""
+
+#: data/template/front_ui_form.php:12
+msgid "Add Main Image"
+msgstr ""
+
+#: src/front_ui.php:149
+msgid "Add media"
+msgstr ""
+
+#: data/template/front_ui_form.php:124
+msgid "Add new category"
+msgstr ""
+
+#: src/types.php:83
+msgid "Add New Media"
+msgstr ""
+
+#: src/types.php:42
+msgctxt "add new on admin bar"
+msgid "Project"
+msgstr ""
+
+#: src/types.php:81
+msgctxt "add new on admin bar"
+msgid "Project media"
+msgstr ""
+
+#: src/types.php:44 data/template/front_ui_form.php:293
+msgid "Add New Project"
+msgstr ""
+
+#: data/template/front_ui_form.php:161
+msgid "Add new tags"
+msgstr ""
+
+#: src/options.php:457
+msgid "Add schema (microdata) about your company"
+msgstr ""
+
+#: src/options.php:580
+msgid "Add schema for video"
+msgstr ""
+
+#: src/metaboxes.php:108 src/options.php:512 data/template/front_ui_form.php:31
+msgid "Address"
+msgstr ""
+
+#: data/widgets/profolio_projects/elementor.php:167
+msgid "Address typography"
+msgstr ""
+
+#: src/types.php:80
+msgctxt "admin menu"
+msgid "Project media"
+msgstr ""
+
+#: src/types.php:41
+msgctxt "admin menu"
+msgid "Projects"
+msgstr ""
+
+#: data/template/project-single-modern.php:432
+#: data/template/project-single-modern.php:494
+#: data/template/project-single-story-modern.php:266
+#: data/template/project-single-story.php:226
+#: data/template/project-single.php:283
+msgid "After"
+msgstr ""
+
+#: src/metaboxes.php:139
+msgid "After photo"
+msgstr ""
+
+#: data/archives/archive-profolio_projects.php:52
+#: data/template/project-single-modern.php:429
+#: data/template/project-single-story-modern.php:260
+#: data/template/project-single-story.php:222
+#: data/template/project-single.php:277
+#: data/widgets/profolio_filter/tmpl.php:109
+msgid "All"
+msgstr ""
+
+#: data/template/project-single-modern.php:491
+msgid "all"
+msgstr ""
+
+#: src/types.php:87
+msgid "All Media"
+msgstr ""
+
+#: src/types.php:48
+msgid "All Projects"
+msgstr ""
+
+#: src/options.php:332
+msgid "Allow deleting media from API?"
+msgstr ""
+
+#: src/options.php:329
+msgid "Allow deleting projects from API?"
+msgstr ""
+
+#: src/options.php:350
+msgid "Allow users with these roles to upload images"
+msgstr ""
+
+#: src/options.php:169
+msgid "Allowed industry"
+msgstr ""
+
+#: data/init.php:997
+msgid "Api key is not valid"
+msgstr ""
+
+#: data/init.php:996
+msgid "Api key is valid"
+msgstr ""
+
+#: src/options.php:144
+msgid "Approximate"
+msgstr ""
+
+#: src/options.php:426
+msgid "Area levels for area project tags:"
+msgstr ""
+
+#: src/types.php:153
+msgid "Area tags"
+msgstr ""
+
+#: src/metaboxes.php:429 data/template/front_ui_form.php:253
+msgid "Author Name"
+msgstr ""
+
+#: data/template/media-single-modern.php:175 data/template/media-single.php:192
+msgid "Author Name: "
+msgstr ""
+
+#: src/metaboxes.php:434
+msgid "Author Page URL"
+msgstr ""
+
+#: data/template/media-single-modern.php:181 data/template/media-single.php:198
+msgid "Author Page URL: "
+msgstr ""
+
+#: data/widgets/profolio_map/config.php:27
+#: data/widgets/profolio_map/config.php:77
+#: data/widgets/profolio_map/config.php:192
+msgid "Automatically center and zoom to fit all markers"
+msgstr ""
+
+#: data/init.php:288
+msgid "Back"
+msgstr ""
+
+#: src/metaboxes.php:563 data/widgets/profolio_map/config.php:197
+msgid "Background infowindow"
+msgstr ""
+
+#: src/metaboxes.php:468 data/widgets/profolio_map/config.php:17
+msgid "Base location"
+msgstr ""
+
+#: src/metaboxes.php:258 data/template/front_ui_form.php:223
+msgid "Bathrooms"
+msgstr ""
+
+#: data/template/project-single-modern.php:383
+#: data/template/project-single.php:673
+msgid "Bathrooms: "
+msgstr ""
+
+#: src/metaboxes.php:252 data/template/front_ui_form.php:217
+msgid "Bedrooms"
+msgstr ""
+
+#: data/template/project-single-modern.php:377
+#: data/template/project-single.php:667
+msgid "Bedrooms: "
+msgstr ""
+
+#: data/template/project-single-modern.php:431
+#: data/template/project-single-modern.php:493
+#: data/template/project-single-story-modern.php:263
+#: data/template/project-single-story.php:224
+#: data/template/project-single.php:280
+msgid "Before"
+msgstr ""
+
+#: src/metaboxes.php:133
+msgid "Before photo"
+msgstr ""
+
+#: src/options.php:264
+msgid "Bottom margin for pages"
+msgstr ""
+
+#: data/widgets/profolio_filter/config.php:63
+msgid "Button background color"
+msgstr ""
+
+#: src/options.php:280
+msgid "Button bg color"
+msgstr ""
+
+#: src/options.php:223
+msgid "Button Color"
+msgstr ""
+
+#: src/options.php:281
+msgid "Button font size"
+msgstr ""
+
+#: src/options.php:277
+msgid "Button label text"
+msgstr ""
+
+#: src/options.php:282
+msgid "Button redirect URL"
+msgstr ""
+
+#: src/options.php:279 data/widgets/profolio_filter/config.php:57
+msgid "Button text color"
+msgstr ""
+
+#: data/widgets/profolio_filter/elementor.php:173
+msgid "Button typography"
+msgstr ""
+
+#: src/options.php:274
+msgid "Call to Action Button"
+msgstr ""
+
+#: src/options.php:164 data/archives/archive-profolio_projects.php:46
+#: data/template/front_ui_form.php:88
+#: data/template/project-single-modern.php:280
+#: data/widgets/profolio_filter/tmpl.php:101
+msgid "Category"
+msgstr ""
+
+#: src/metaboxes.php:644 data/widgets/profolio_projects/config.php:88
+msgid "Category shape background"
+msgstr ""
+
+#: src/metaboxes.php:649 data/widgets/profolio_projects/config.php:94
+msgid "Category shape color"
+msgstr ""
+
+#: src/options.php:171
+msgid "Category template"
+msgstr ""
+
+#: data/widgets/profolio_projects/elementor.php:176
+msgid "Category typography"
+msgstr ""
+
+#: data/template/project-single-story.php:362
+#: data/template/project-single.php:529
+msgid "Category:"
+msgstr ""
+
+#: src/options.php:296
+msgid "Change City Field"
+msgstr ""
+
+#: src/options.php:302
+msgid "Change Detail First Field"
+msgstr ""
+
+#: src/options.php:303
+msgid "Change Detail Second Field"
+msgstr ""
+
+#: src/options.php:304
+msgid "Change Detail Third Field"
+msgstr ""
+
+#: src/options.php:300
+msgid "Change Email Field"
+msgstr ""
+
+#: src/options.php:294
+msgid "Change Full Name Field"
+msgstr ""
+
+#: src/options.php:299
+msgid "Change Phone Field"
+msgstr ""
+
+#: src/options.php:301
+msgid "Change Service Type Field"
+msgstr ""
+
+#: src/options.php:297
+msgid "Change State Field"
+msgstr ""
+
+#: src/options.php:295
+msgid "Change Street Address Field"
+msgstr ""
+
+#: src/options.php:298
+msgid "Change Zip Field"
+msgstr ""
+
+#: src/options.php:541
+msgid "Choose"
+msgstr ""
+
+#: src/leads.php:96 src/metaboxes.php:84 src/options.php:429
+#: src/options.php:513
+msgid "City"
+msgstr ""
+
+#: src/options.php:707 src/options.php:722
+msgid "Clear logs"
+msgstr ""
+
+#: src/options.php:325
+msgid "Client ID"
+msgstr ""
+
+#: src/options.php:326
+msgid "Client secret"
+msgstr ""
+
+#: src/options.php:319
+msgid "Cloud Connect"
+msgstr ""
+
+#: src/metaboxes.php:573 data/widgets/profolio_map/config.php:210
+msgid "Color location"
+msgstr ""
+
+#: data/widgets/profolio_map/config.php:199
+msgid "Color of the  infowindow"
+msgstr ""
+
+#: src/metaboxes.php:568 data/widgets/profolio_map/config.php:204
+msgid "Color title"
+msgstr ""
+
+#: src/options.php:175
+msgid "Column Size"
+msgstr ""
+
+#: src/options.php:233
+msgid "Columns"
+msgstr ""
+
+#: src/metaboxes.php:384
+msgid "Comment"
+msgstr ""
+
+#: data/init.php:548 data/template/front_ui_form.php:193
+msgid "Completed"
+msgstr ""
+
+#: data/init.php:803 data/template/media-single-modern.php:6
+msgid "Contact Us"
+msgstr ""
+
+#: data/widgets/profolio_map/elementor.php:144
+msgid "Content typography"
+msgstr ""
+
+#: src/metaboxes.php:102 src/options.php:432 src/options.php:522
+msgid "Country"
+msgstr ""
+
+#: src/metaboxes.php:90 src/options.php:430
+msgid "County"
+msgstr ""
+
+#: src/metaboxes.php:396
+msgid "Create Datetime"
+msgstr ""
+
+#: src/metaboxes.php:357
+msgid "Created"
+msgstr ""
+
+#: src/options.php:272
+msgid "CTA"
+msgstr ""
+
+#: src/metaboxes.php:176
+msgid "Customer Name"
+msgstr ""
+
+#: data/template/project-single-modern.php:326
+#: data/template/project-single.php:505
+msgid "Customer Name: "
+msgstr ""
+
+#: src/metaboxes.php:623 data/template/front_ui_form.php:27
+#: data/template/project-single-story-modern.php:220
+#: data/widgets/profolio_media/config.php:43
+#: data/widgets/profolio_projects/config.php:59
+msgid "Date"
+msgstr ""
+
+#: data/template/project-single-story.php:326
+msgid "Date:"
+msgstr ""
+
+#: src/metaboxes.php:612 src/options.php:172 src/options.php:211
+#: src/options.php:246 data/widgets/profolio_projects/config.php:46
+msgid "Default"
+msgstr ""
+
+#: src/dynamic.php:87 src/options.php:505 data/template/front_ui_form.php:22
+msgid "Description"
+msgstr ""
+
+#: src/leads.php:102
+msgid "Details First"
+msgstr ""
+
+#: src/leads.php:103
+msgid "Details Second"
+msgstr ""
+
+#: src/leads.php:104
+msgid "Details Third"
+msgstr ""
+
+#: src/options.php:449
+msgid "Disable parent area tag"
+msgstr ""
+
+#: src/metaboxes.php:486 data/widgets/profolio_map/config.php:49
+msgid "Display on map projects from all pages"
+msgstr ""
+
+#: src/metaboxes.php:487 data/widgets/profolio_map/config.php:50
+msgid "Display on map same projects as on current page"
+msgstr ""
+
+#: data/init.php:602
+msgid "Drag the widgets for profolio detail sidebar."
+msgstr ""
+
+#: data/init.php:550 data/template/front_ui_form.php:195
+msgid "Dropped"
+msgstr ""
+
+#: data/template/project-single-modern.php:435
+#: data/template/project-single-modern.php:497
+#: data/template/project-single-story-modern.php:269
+#: data/template/project-single-story.php:228
+#: data/template/project-single.php:286
+msgid "During"
+msgstr ""
+
+#: src/front_ui.php:453
+msgid "Edit in LocalSEOMap"
+msgstr ""
+
+#: src/front_ui.php:461
+msgid "Edit in Profolio"
+msgstr ""
+
+#: src/types.php:85
+msgid "Edit Media"
+msgstr ""
+
+#: src/types.php:46
+msgid "Edit Project"
+msgstr ""
+
+#: src/front_ui.php:68 data/template/front_ui_default.php:12
+msgid "Editing: "
+msgstr ""
+
+#: src/options.php:463
+msgid "Electrician"
+msgstr ""
+
+#: src/leads.php:100
+msgid "Email"
+msgstr ""
+
+#: src/metaboxes.php:528 data/widgets/profolio_map/config.php:117
+msgid "Enable all UI"
+msgstr ""
+
+#: src/options.php:230
+msgid "Enable galley list view"
+msgstr ""
+
+#: src/metaboxes.php:507 data/widgets/profolio_map/config.php:82
+msgid "Enable scrollwheel"
+msgstr ""
+
+#: src/metaboxes.php:512 data/widgets/profolio_map/config.php:91
+msgid "Enable tilted at 45° imagery"
+msgstr ""
+
+#: data/template/front_ui_form.php:34
+msgid "Enter a location"
+msgstr ""
+
+#: data/template/front_ui_form.php:179
+msgid "Enter price"
+msgstr ""
+
+#: data/template/front_ui_form.php:19
+msgid "Enter project name"
+msgstr ""
+
+#: src/options.php:718
+msgid "Error logs"
+msgstr ""
+
+#: src/options.php:717
+msgid "Errors"
+msgstr ""
+
+#: src/options.php:143
+msgid "Exact"
+msgstr ""
+
+#: src/options.php:544
+msgid "Expensive, usually between $25-$45"
+msgstr ""
+
+#: src/options.php:285
+msgid "External Services ID"
+msgstr ""
+
+#: src/metaboxes.php:438
+msgid "File type"
+msgstr ""
+
+#: data/widgets/profolio_filter/config.php:7
+msgid "Filter"
+msgstr ""
+
+#: data/widgets/profolio_filter/config.php:37
+msgid "Filter in tags instead category"
+msgstr ""
+
+#: data/widgets/profolio_filter/config.php:30
+msgid "Filter projects with \"Pro\" only"
+msgstr ""
+
+#: data/widgets/profolio_projects/elementor.php:130
+#: data/widgets/profolio_projects/elementor.php:142
+msgid "Filter Terms"
+msgstr ""
+
+#: src/metaboxes.php:412
+msgid "Folder"
+msgstr ""
+
+#: data/template/front_ui_form.php:186
+msgid "For rent"
+msgstr ""
+
+#: data/init.php:576
+msgid "for rent"
+msgstr ""
+
+#: data/template/front_ui_form.php:185
+msgid "For sale"
+msgstr ""
+
+#: data/init.php:575
+msgid "for sale"
+msgstr ""
+
+#: data/widgets/profolio_popup/config.php:7
+msgid "Form Popup"
+msgstr ""
+
+#: src/metaboxes.php:604 data/widgets/profolio_media/config.php:30
+#: data/widgets/profolio_projects/config.php:36
+msgid "Four columns"
+msgstr ""
+
+#: data/widgets/profolio_map/config.php:69
+msgid "From 0 to 20"
+msgstr ""
+
+#: src/leads.php:94
+msgid "Full Name"
+msgstr ""
+
+#: src/metaboxes.php:473 data/widgets/profolio_map/config.php:24
+msgid "Fullheight"
+msgstr ""
+
+#: src/options.php:222
+msgid "Gallery Title Color"
+msgstr ""
+
+#: src/options.php:220
+msgid "Gallery Title Font Size"
+msgstr ""
+
+#: data/template/front_ui_form.php:271
+msgid "Gallery:"
+msgstr ""
+
+#: src/options.php:119 data/widgets/profolio_filter/config.php:25
+#: data/widgets/profolio_filter/config.php:33
+#: data/widgets/profolio_filter/config.php:41
+#: data/widgets/profolio_map/config.php:20
+#: data/widgets/profolio_map/config.php:41
+#: data/widgets/profolio_map/config.php:52
+#: data/widgets/profolio_media/config.php:19
+#: data/widgets/profolio_media/config.php:33
+#: data/widgets/profolio_media/config.php:47
+#: data/widgets/profolio_media/config.php:55
+#: data/widgets/profolio_media/config.php:62
+#: data/widgets/profolio_media/config.php:69
+#: data/widgets/profolio_projects/config.php:19
+#: data/widgets/profolio_projects/config.php:26
+#: data/widgets/profolio_projects/config.php:39
+#: data/widgets/profolio_projects/config.php:50
+#: data/widgets/profolio_projects/config.php:63
+#: data/widgets/profolio_projects/config.php:70
+#: data/widgets/profolio_projects/config.php:77
+#: data/widgets/profolio_projects/config.php:84
+#: data/widgets/profolio_projects/config.php:139
+#: data/widgets/profolio_projects/config.php:146
+#: data/widgets/profolio_projects/config.php:153
+#: data/widgets/profolio_projects/config.php:160
+msgid "General"
+msgstr ""
+
+#: src/options.php:464
+msgid "General Contractor"
+msgstr ""
+
+#: src/options.php:135
+msgid "Geocoding API"
+msgstr ""
+
+#: src/metaboxes.php:483 data/widgets/profolio_map/config.php:45
+msgid "Get coordinates from"
+msgstr ""
+
+#: src/metaboxes.php:478 data/widgets/profolio_map/config.php:33
+msgid "Height"
+msgstr ""
+
+#: data/widgets/profolio_media/config.php:66
+#: data/widgets/profolio_projects/config.php:81
+msgid "Hide Industry?"
+msgstr ""
+
+#: src/metaboxes.php:639
+msgid "Hide industry?"
+msgstr ""
+
+#: src/metaboxes.php:634 data/widgets/profolio_media/config.php:59
+#: data/widgets/profolio_projects/config.php:74
+msgid "Hide Location?"
+msgstr ""
+
+#: src/options.php:267
+msgid "Hide project title"
+msgstr ""
+
+#: src/metaboxes.php:558 data/widgets/profolio_map/config.php:190
+msgid "Hide title"
+msgstr ""
+
+#: src/metaboxes.php:629 data/widgets/profolio_media/config.php:52
+#: data/widgets/profolio_projects/config.php:67
+msgid "Hide Title?"
+msgstr ""
+
+#: src/metaboxes.php:240 data/template/front_ui_form.php:205
+msgid "Home size (sq ft)"
+msgstr ""
+
+#: data/template/project-single-modern.php:365
+#: data/template/project-single.php:655
+msgid "Home size: "
+msgstr ""
+
+#: src/options.php:466
+msgid "House Painter"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://localseomap.com/"
+msgstr ""
+
+#: src/options.php:465
+msgid "HVAC Business"
+msgstr ""
+
+#: src/metaboxes.php:522 data/widgets/profolio_map/config.php:106
+msgid "Hybrid"
+msgstr ""
+
+#: src/options.php:218
+msgid "Icon Bg Color"
+msgstr ""
+
+#: src/metaboxes.php:624 data/widgets/profolio_media/config.php:44
+#: data/widgets/profolio_projects/config.php:60
+msgid "ID"
+msgstr ""
+
+#: data/widgets/profolio_map/config.php:83
+msgid "If false, disables scrollwheel zooming on the map."
+msgstr ""
+
+#: src/options.php:255
+msgid "Image Size"
+msgstr ""
+
+#: src/metaboxes.php:664 data/widgets/profolio_projects/config.php:143
+msgid "Image size"
+msgstr ""
+
+#: src/options.php:561
+msgid "Image:"
+msgstr ""
+
+#: src/options.php:402
+msgid "Import"
+msgstr ""
+
+#: src/options.php:389
+msgid "Import all industry"
+msgstr ""
+
+#: src/options.php:369
+msgid "Import all projects"
+msgstr ""
+
+#: data/init.php:558
+msgid "inactive"
+msgstr ""
+
+#: src/importer.php:172
+msgid "Incorrect data."
+msgstr ""
+
+#: src/types.php:126
+msgid "Industry"
+msgstr ""
+
+#: src/options.php:542
+msgid "Inexpensive, usually $10 and under"
+msgstr ""
+
+#: data/widgets/profolio_map/config.php:193
+#: data/widgets/profolio_map/config.php:200
+#: data/widgets/profolio_map/config.php:206
+#: data/widgets/profolio_map/config.php:212
+msgid "Infowindow"
+msgstr ""
+
+#: src/admin.php:132 src/admin.php:147 src/admin.php:147
+msgid "Input form"
+msgstr ""
+
+#: data/widgets/profolio_filter/config.php:51
+msgid "Input icons background"
+msgstr ""
+
+#: data/widgets/profolio_filter/config.php:16
+msgid "Input Size"
+msgstr ""
+
+#: data/widgets/profolio_filter/config.php:45
+msgid "Input text color"
+msgstr ""
+
+#: data/widgets/profolio_filter/elementor.php:163
+msgid "Input typography"
+msgstr ""
+
+#: src/options.php:423
+msgid ""
+"It will be used in the url. For example: http://your-website."
+"com/localseomap_media/slug-of-media/"
+msgstr ""
+
+#: src/options.php:419
+msgid ""
+"It will be used in the url. For example: http://your-website."
+"com/localseomap_projects/slug-of-project/"
+msgstr ""
+
+#: src/options.php:601
+msgid "Language"
+msgstr ""
+
+#: src/metaboxes.php:402
+msgid "Lat"
+msgstr ""
+
+#: src/metaboxes.php:115 src/options.php:523
+msgid "Latitude"
+msgstr ""
+
+#: src/profolio_actions.php:15
+msgid "Leads180"
+msgstr ""
+
+#: src/options.php:284
+msgid "Leads180 Integration"
+msgstr ""
+
+#: data/template/project-single-story.php:338
+#: data/template/project-single.php:517
+msgid "Local Services:"
+msgstr ""
+
+#: src/options.php:441
+msgid "Locality"
+msgstr ""
+
+#. Name of the plugin
+msgid "LocalSEOMap for Elementor"
+msgstr ""
+
+#. Author of the plugin
+msgid "LocalSEOMap.com"
+msgstr ""
+
+#: src/metaboxes.php:44 data/template/media-single.php:131
+#: data/template/project-single-modern.php:399
+#: data/template/project-single-story-modern.php:224
+#: data/template/project-single-story.php:291
+#: data/template/project-single.php:441
+msgid "Location"
+msgstr ""
+
+#: data/template/media-single-modern.php:205
+msgid "Location: "
+msgstr ""
+
+#: src/options.php:467
+msgid "Locksmith"
+msgstr ""
+
+#: src/options.php:497
+msgid "Logo"
+msgstr ""
+
+#: src/options.php:713 src/options.php:720 src/options.php:721
+msgid "Logs"
+msgstr ""
+
+#: src/metaboxes.php:407
+msgid "Long"
+msgstr ""
+
+#: src/metaboxes.php:121 src/options.php:530
+msgid "Longitude"
+msgstr ""
+
+#: data/template/project-single-modern.php:484
+#: data/template/project-single.php:269
+msgid "Look inside"
+msgstr ""
+
+#: data/template/front_ui_form.php:211
+msgid "Lot size (sq ft )"
+msgstr ""
+
+#: src/metaboxes.php:246
+msgid "Lot size (sq ft)"
+msgstr ""
+
+#: data/template/project-single-modern.php:371
+#: data/template/project-single.php:661
+msgid "Lot size: "
+msgstr ""
+
+#: src/metaboxes.php:183 src/options.php:471
+msgid "Manual"
+msgstr ""
+
+#: data/widgets/profolio_map/config.php:8
+msgid "Map"
+msgstr ""
+
+#: src/options.php:219
+msgid "Map Border Color"
+msgstr ""
+
+#: data/widgets/profolio_map/config.php:122
+#: data/widgets/profolio_map/config.php:134
+#: data/widgets/profolio_map/config.php:147
+#: data/widgets/profolio_map/config.php:159
+#: data/widgets/profolio_map/config.php:171
+#: data/widgets/profolio_map/config.php:183
+msgid "Map controls"
+msgstr ""
+
+#: data/widgets/profolio_map/config.php:28
+#: data/widgets/profolio_map/config.php:61
+#: data/widgets/profolio_map/config.php:70
+#: data/widgets/profolio_map/config.php:78
+#: data/widgets/profolio_map/config.php:87
+#: data/widgets/profolio_map/config.php:96
+#: data/widgets/profolio_map/config.php:110
+msgid "Map settings"
+msgstr ""
+
+#: src/options.php:128
+msgid "Maps JavaScript API"
+msgstr ""
+
+#: data/widgets/profolio_map/config.php:102
+msgid ""
+"MapType defines the display and usage of map tiles and the translation of "
+"coordinate systems from screen to world coordinates"
+msgstr ""
+
+#: src/metaboxes.php:492 data/widgets/profolio_map/config.php:58
+msgid "Marker"
+msgstr ""
+
+#: src/options.php:148
+msgid "Max. radius for Approximate (meter)"
+msgstr ""
+
+#: src/options.php:259 data/widgets/profolio_media/config.php:7
+msgid "Media"
+msgstr ""
+
+#: src/metaboxes.php:323
+msgid "Media details"
+msgstr ""
+
+#: data/template/media-single-modern.php:195
+msgid "Media Details: "
+msgstr ""
+
+#: src/front_ui.php:158 src/front_ui.php:165
+msgid "Media title"
+msgstr ""
+
+#: src/metaboxes.php:234 data/template/front_ui_form.php:199
+msgid "MLS ID"
+msgstr ""
+
+#: data/template/project-single-modern.php:359
+#: data/template/project-single.php:649
+msgid "MLS ID: "
+msgstr ""
+
+#: src/options.php:543
+msgid "Moderately expensive, usually between $10-$25"
+msgstr ""
+
+#: src/options.php:173 src/options.php:212
+msgid "Modern"
+msgstr ""
+
+#: src/options.php:468
+msgid "Moving Company"
+msgstr ""
+
+#: src/options.php:489
+msgid "Name"
+msgstr ""
+
+#: src/options.php:440
+msgid "Neighborhood"
+msgstr ""
+
+#: data/template/front_ui_form.php:115 data/template/front_ui_form.php:127
+msgid "New category"
+msgstr ""
+
+#: src/types.php:84
+msgid "New Media"
+msgstr ""
+
+#: src/types.php:45
+msgid "New Project"
+msgstr ""
+
+#: data/archives/taxonomy-industry.php:124
+#: data/widgets/profolio_projects/tmpl.php:255
+msgid "Next"
+msgstr ""
+
+#: data/template/project-single-modern.php:682
+#: data/template/project-single.php:258
+msgid "Next Project"
+msgstr ""
+
+#: data/template/project-single-story-modern.php:335
+#: data/template/project-single-story.php:212
+msgid "Next story"
+msgstr ""
+
+#: src/metaboxes.php:379
+msgid "nid"
+msgstr ""
+
+#: src/front_ui.php:392
+msgid "No data"
+msgstr ""
+
+#: src/importer.php:164
+msgid "No data."
+msgstr ""
+
+#: data/widgets/profolio_media/tmpl.php:107
+msgid "No media found here. Please try another search."
+msgstr ""
+
+#: src/types.php:91
+msgid "No Media found in Trash."
+msgstr ""
+
+#: src/types.php:90
+msgid "No Media found."
+msgstr ""
+
+#: data/init.php:286 data/init.php:519
+#: data/archives/archive-profolio_projects.php:86
+#: data/archives/taxonomy-industry.php:104
+#: data/archives/taxonomy-project_tag.php:67
+#: data/widgets/profolio_projects/tmpl.php:284
+msgid "No projects found here. Please try another search."
+msgstr ""
+
+#: src/types.php:52
+msgid "No Projects found in Trash."
+msgstr ""
+
+#: src/types.php:51
+msgid "No Projects found."
+msgstr ""
+
+#: data/archives/archive-profolio_projects.php:52
+#: data/template/front_ui_form.php:184 data/template/front_ui_form.php:192
+#: data/widgets/profolio_filter/tmpl.php:110
+msgid "None"
+msgstr ""
+
+#: src/options.php:114
+msgid "Notice: "
+msgstr ""
+
+#: data/template/front_ui_form.php:220 data/template/front_ui_form.php:226
+#: data/template/front_ui_form.php:232 data/template/front_ui_form.php:259
+msgid "Number"
+msgstr ""
+
+#: src/metaboxes.php:598 data/widgets/profolio_media/config.php:24
+#: data/widgets/profolio_projects/config.php:30
+msgid "Number of columns"
+msgstr ""
+
+#: src/options.php:377
+msgid "Number of imported projects"
+msgstr ""
+
+#: data/widgets/profolio_map/config.php:35
+msgid "Numbers only"
+msgstr ""
+
+#: data/init.php:549 data/template/front_ui_form.php:194
+msgid "On Hold"
+msgstr ""
+
+#: src/metaboxes.php:601 data/widgets/profolio_media/config.php:27
+#: data/widgets/profolio_projects/config.php:33
+msgid "One column"
+msgstr ""
+
+#: src/metaboxes.php:618 src/options.php:245
+#: data/widgets/profolio_media/config.php:38
+#: data/widgets/profolio_projects/config.php:54
+msgid "Order By"
+msgstr ""
+
+#: src/options.php:289
+msgid "Override Button redirect URL?"
+msgstr ""
+
+#: src/options.php:356
+msgid "Page template of the theme (if it exists)"
+msgstr ""
+
+#: data/widgets/profolio_projects/config.php:130
+msgid "Pagination active background color"
+msgstr ""
+
+#: data/widgets/profolio_projects/config.php:124
+msgid "Pagination active text color"
+msgstr ""
+
+#: data/widgets/profolio_projects/config.php:112
+msgid "Pagination background color"
+msgstr ""
+
+#: data/widgets/profolio_projects/config.php:118
+msgid "Pagination hover background color"
+msgstr ""
+
+#: data/widgets/profolio_projects/config.php:106
+msgid "Pagination text color"
+msgstr ""
+
+#: src/types.php:89
+msgid "Parent Media:"
+msgstr ""
+
+#: src/types.php:50
+msgid "Parent Projects:"
+msgstr ""
+
+#: src/options.php:323
+msgid "Password"
+msgstr ""
+
+#: src/metaboxes.php:424
+msgid "PDF"
+msgstr ""
+
+#: src/metaboxes.php:171
+msgid "Permit Number"
+msgstr ""
+
+#: data/template/project-single-modern.php:320
+#: data/template/project-single.php:499
+msgid "Permit Number: "
+msgstr ""
+
+#: src/leads.php:99
+msgid "Phone"
+msgstr ""
+
+#: src/front_ui.php:161 src/front_ui.php:168
+msgid "Please add the profolio media title here"
+msgstr ""
+
+#: src/front_ui.php:189
+msgid "Please add the project name"
+msgstr ""
+
+#: data/widgets/profolio_map/tmpl.php:30
+msgid "Please insert your API KEY"
+msgstr ""
+
+#: data/template/front_ui_none.php:26
+msgid "Please login"
+msgstr ""
+
+#: src/options.php:469
+msgid "Plumber"
+msgstr ""
+
+#: src/options.php:287
+msgid "Popup Form"
+msgstr ""
+
+#: src/metaboxes.php:185
+msgid "Post Method"
+msgstr ""
+
+#: src/types.php:39
+msgctxt "post type general name"
+msgid "Profolio Projects"
+msgstr ""
+
+#: src/types.php:78
+msgctxt "post type general name"
+msgid "Project media"
+msgstr ""
+
+#: src/types.php:40
+msgctxt "post type singular name"
+msgid "Project"
+msgstr ""
+
+#: src/types.php:79
+msgctxt "post type singular name"
+msgid "Project media"
+msgstr ""
+
+#: src/metaboxes.php:588 data/widgets/profolio_media/config.php:15
+#: data/widgets/profolio_projects/config.php:15
+msgid "Posts per page"
+msgstr ""
+
+#: data/archives/taxonomy-industry.php:123
+#: data/widgets/profolio_projects/tmpl.php:254
+msgid "Previous"
+msgstr ""
+
+#: data/template/project-single-modern.php:673
+#: data/template/project-single.php:249
+msgid "Previous Project"
+msgstr ""
+
+#: data/template/project-single-story-modern.php:326
+#: data/template/project-single-story.php:203
+msgid "Previous story"
+msgstr ""
+
+#: data/template/front_ui_form.php:176
+msgid "Price"
+msgstr ""
+
+#: src/metaboxes.php:205
+msgid "Price ($)"
+msgstr ""
+
+#: src/options.php:538
+msgid "Price range"
+msgstr ""
+
+#: data/template/project-single-modern.php:341
+#: data/template/project-single.php:631
+msgid "Price: "
+msgstr ""
+
+#: src/metaboxes.php:166
+msgid "Pro Project"
+msgstr ""
+
+#: src/metaboxes.php:670 data/widgets/profolio_projects/config.php:150
+msgid "Pro project"
+msgstr ""
+
+#: src/metaboxes.php:182
+msgid "Profolio API"
+msgstr ""
+
+#: data/init.php:597
+msgid "Profolio detail sidebar"
+msgstr ""
+
+#: data/widgets/profolio_filter/config.php:8
+msgid "Profolio filter"
+msgstr ""
+
+#: data/widgets/profolio_popup/config.php:8
+msgid "Profolio form popup"
+msgstr ""
+
+#: data/widgets/profolio_map/config.php:9
+msgid "Profolio map"
+msgstr ""
+
+#: data/widgets/profolio_media/config.php:8
+msgid "Profolio media list"
+msgstr ""
+
+#: data/widgets/profolio_projects/config.php:8
+msgid "Profolio projects list"
+msgstr ""
+
+#: src/options.php:258 data/template/front_ui_form.php:52
+msgid "Project"
+msgstr ""
+
+#: src/types.php:43 src/types.php:82
+msgctxt "project"
+msgid "Add New"
+msgstr ""
+
+#: src/metaboxes.php:57 src/options.php:205
+#: data/template/media-single-modern.php:155 data/template/media-single.php:164
+#: data/template/project-single-modern.php:296
+#: data/template/project-single.php:476
+msgid "Project Details"
+msgstr ""
+
+#: src/metaboxes.php:374
+msgid "Project Flow State"
+msgstr ""
+
+#: data/template/media-single-modern.php:169 data/template/media-single.php:186
+msgid "Project Flow State: "
+msgstr ""
+
+#: src/front_ui.php:65 src/front_ui.php:114
+#: data/template/front_ui_default.php:10 data/template/front_ui_none.php:24
+msgid "Project Input Form"
+msgstr ""
+
+#: data/template/front_ui_form.php:299
+msgid "Project is added"
+msgstr ""
+
+#: data/archives/archive-profolio_projects.php:31
+msgid "Project List"
+msgstr ""
+
+#: src/metaboxes.php:613 data/widgets/profolio_projects/config.php:47
+msgid "Project list"
+msgstr ""
+
+#: src/dynamic.php:169
+msgid "Project Page"
+msgstr ""
+
+#: src/metaboxes.php:156
+msgid "Project Status"
+msgstr ""
+
+#: data/template/project-single-modern.php:314
+#: data/template/project-single.php:493
+msgid "Project Status: "
+msgstr ""
+
+#: src/options.php:210
+msgid "Project template"
+msgstr ""
+
+#: src/metaboxes.php:145
+msgid "Project Value"
+msgstr ""
+
+#: data/template/project-single-modern.php:308
+#: data/template/project-single.php:487
+msgid "Project Value: "
+msgstr ""
+
+#: data/template/media-single.php:170
+msgid "Project:"
+msgstr ""
+
+#: data/widgets/profolio_projects/config.php:7
+msgid "Projects"
+msgstr ""
+
+#: src/metaboxes.php:675 data/widgets/profolio_projects/config.php:157
+msgid "Projects tags instead industry"
+msgstr ""
+
+#: src/admin.php:68
+msgid "Projects template"
+msgstr ""
+
+#: data/template/project-single-modern.php:336
+#: data/template/project-single.php:628
+msgid "Property Details"
+msgstr ""
+
+#: src/metaboxes.php:193
+msgid "Property details"
+msgstr ""
+
+#: src/metaboxes.php:96 src/options.php:431
+msgid "Province"
+msgstr ""
+
+#: src/options.php:247
+msgid "Random"
+msgstr ""
+
+#: data/template/front_ui_form.php:169
+msgid "Real estate:"
+msgstr ""
+
+#: src/metaboxes.php:659 data/widgets/profolio_projects/config.php:136
+msgid "Remove background?"
+msgstr ""
+
+#: src/options.php:180
+msgid "Remove tag buttons from list"
+msgstr ""
+
+#: src/options.php:278
+msgid "Request Estimate"
+msgstr ""
+
+#: src/importer.php:195
+msgid "Required parameter \"entity_uuid\" is missing."
+msgstr ""
+
+#: src/importer.php:190
+msgid "Required parameter \"name\" is missing."
+msgstr ""
+
+#: data/init.php:521
+msgid "Reset"
+msgstr ""
+
+#: src/options.php:406
+msgid "Response API"
+msgstr ""
+
+#: src/metaboxes.php:520 data/widgets/profolio_map/config.php:104
+msgid "Roadmap "
+msgstr ""
+
+#: src/options.php:348
+msgid "Roles of users who will be allowed to add projects"
+msgstr ""
+
+#: src/options.php:470
+msgid "RoofingContractor"
+msgstr ""
+
+#: src/metaboxes.php:216 data/template/front_ui_form.php:182
+msgid "Sale type"
+msgstr ""
+
+#: data/template/project-single-modern.php:347
+#: data/template/project-single.php:637
+msgid "Sale type: "
+msgstr ""
+
+#: src/metaboxes.php:521 data/widgets/profolio_map/config.php:105
+msgid "Satellite"
+msgstr ""
+
+#: data/widgets/profolio_filter/tmpl.php:132
+msgid "Search"
+msgstr ""
+
+#: src/types.php:88
+msgid "Search Media"
+msgstr ""
+
+#: src/types.php:49
+msgid "Search Projects"
+msgstr ""
+
+#: data/archives/archive-profolio_projects.php:51
+#: data/widgets/profolio_filter/tmpl.php:108
+msgid "Select"
+msgstr ""
+
+#: data/widgets/profolio_filter/elementor.php:134
+msgid "Select Category"
+msgstr ""
+
+#: src/metaboxes.php:517 data/widgets/profolio_map/config.php:100
+msgid "Select Map Types"
+msgstr ""
+
+#: src/options.php:437
+msgid "Select priority param for city:"
+msgstr ""
+
+#: data/widgets/profolio_filter/elementor.php:147
+msgid "Select Tags"
+msgstr ""
+
+#: src/options.php:354
+msgid "Select template for the input form"
+msgstr ""
+
+#: src/options.php:414
+msgid "SEO"
+msgstr ""
+
+#: src/options.php:217
+msgid "Seperator Color"
+msgstr ""
+
+#: src/leads.php:101
+msgid "Service Type"
+msgstr ""
+
+#: src/admin.php:117
+msgid "Settings"
+msgstr ""
+
+#: data/template/media-single.php:206
+msgid "Share"
+msgstr ""
+
+#: src/options.php:275
+msgid "Show Call to Action Button"
+msgstr ""
+
+#: src/options.php:307
+msgid "Show City Field"
+msgstr ""
+
+#: src/options.php:310
+msgid "Show Detail First Field"
+msgstr ""
+
+#: src/options.php:311
+msgid "Show Detail Second Field"
+msgstr ""
+
+#: src/options.php:312
+msgid "Show Detail Third Field"
+msgstr ""
+
+#: src/metaboxes.php:548 data/widgets/profolio_map/config.php:163
+msgid "Show fullscreen control"
+msgstr ""
+
+#: src/metaboxes.php:538 data/widgets/profolio_map/config.php:139
+msgid "Show map type control"
+msgstr ""
+
+#: data/widgets/profolio_projects/config.php:23
+msgid "Show pagination"
+msgstr ""
+
+#: src/metaboxes.php:593
+msgid "Show pagination (only Pro)"
+msgstr ""
+
+#: src/metaboxes.php:553 data/widgets/profolio_map/config.php:175
+msgid "Show rotate control"
+msgstr ""
+
+#: src/metaboxes.php:543 data/widgets/profolio_map/config.php:151
+msgid "Show scale control"
+msgstr ""
+
+#: src/options.php:309
+msgid "Show Service Type Field"
+msgstr ""
+
+#: src/options.php:227
+msgid "Show share links"
+msgstr ""
+
+#: src/options.php:308
+msgid "Show State Field"
+msgstr ""
+
+#: src/options.php:306
+msgid "Show Street Address Field"
+msgstr ""
+
+#: src/options.php:225
+msgid "Show video preview instead of the button"
+msgstr ""
+
+#: src/metaboxes.php:533 data/widgets/profolio_map/config.php:126
+msgid "Show zoom control"
+msgstr ""
+
+#: data/template/front_ui_form.php:208 data/template/front_ui_form.php:214
+msgid "Size"
+msgstr ""
+
+#: src/options.php:374
+msgid "Skip existing projects"
+msgstr ""
+
+#: src/options.php:421
+msgid "Slug for media"
+msgstr ""
+
+#: src/options.php:417
+msgid "Slug for project"
+msgstr ""
+
+#: data/init.php:557
+msgid "sold"
+msgstr ""
+
+#: src/options.php:335
+msgid "Sort media by meta value ( media_create_datetime )"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Speed up Local SEO rankings with an interactive Google map and search-"
+"optimized detail pages."
+msgstr ""
+
+#: src/metaboxes.php:73 src/metaboxes.php:621
+#: data/widgets/profolio_media/config.php:41
+#: data/widgets/profolio_projects/config.php:57
+msgid "Start Date"
+msgstr ""
+
+#: data/template/project-single-modern.php:301
+#: data/template/project-single.php:480
+msgid "Start date:"
+msgstr ""
+
+#: data/template/media-single-modern.php:187
+msgid "Start Date: "
+msgstr ""
+
+#: src/leads.php:97 src/metaboxes.php:351
+msgid "State"
+msgstr ""
+
+#: src/options.php:514
+msgid "State/Region"
+msgstr ""
+
+#: src/metaboxes.php:228 data/template/front_ui_form.php:190
+msgid "Status"
+msgstr ""
+
+#: data/template/media-single-modern.php:163 data/template/media-single.php:180
+#: data/template/project-single-modern.php:353
+#: data/template/project-single.php:643
+msgid "Status: "
+msgstr ""
+
+#: data/template/front_ui_form.php:53
+msgid "Story"
+msgstr ""
+
+#: data/template/project-single-story-modern.php:217
+#: data/template/project-single-story.php:322
+msgid "Story Details"
+msgstr ""
+
+#: src/leads.php:95
+msgid "Street Address"
+msgstr ""
+
+#: src/metaboxes.php:609 data/widgets/profolio_filter/config.php:47
+#: data/widgets/profolio_filter/config.php:53
+#: data/widgets/profolio_filter/config.php:59
+#: data/widgets/profolio_filter/config.php:65
+#: data/widgets/profolio_projects/config.php:43
+#: data/widgets/profolio_projects/config.php:90
+#: data/widgets/profolio_projects/config.php:96
+#: data/widgets/profolio_projects/config.php:102
+#: data/widgets/profolio_projects/config.php:108
+#: data/widgets/profolio_projects/config.php:114
+#: data/widgets/profolio_projects/config.php:120
+#: data/widgets/profolio_projects/config.php:126
+#: data/widgets/profolio_projects/config.php:132
+msgid "Style"
+msgstr ""
+
+#: src/options.php:442
+msgid "Sublocality level 1"
+msgstr ""
+
+#: src/options.php:443
+msgid "Sublocality level 2"
+msgstr ""
+
+#: src/options.php:444
+msgid "Sublocality level 3"
+msgstr ""
+
+#: src/leads.php:105 data/template/front_ui_form.php:283
+msgid "Submit"
+msgstr ""
+
+#: src/options.php:293
+msgid "Submit button label"
+msgstr ""
+
+#: data/template/media-single-modern.php:198 data/template/media-single.php:203
+msgid "Submitted: "
+msgstr ""
+
+#: src/options.php:291
+msgid "Subtitle above form"
+msgstr ""
+
+#: data/template/front_ui_form.php:143 data/template/front_ui_form.php:153
+#: data/template/front_ui_form.php:164
+msgid "Tag"
+msgstr ""
+
+#: src/options.php:183
+msgid "Tag buttons color"
+msgstr ""
+
+#: src/types.php:140 data/template/project-single-modern.php:286
+#: data/template/project-single-story-modern.php:231
+msgid "Tags"
+msgstr ""
+
+#: data/template/project-single-story.php:350
+#: data/template/project-single.php:541
+msgid "Tags:"
+msgstr ""
+
+#: src/options.php:554
+msgid "Telephone"
+msgstr ""
+
+#: src/metaboxes.php:523 data/widgets/profolio_map/config.php:107
+msgid "Terrain"
+msgstr ""
+
+#: src/options.php:139
+msgid "Test Geocoding API"
+msgstr ""
+
+#: src/options.php:132
+msgid "Test JavaScript API"
+msgstr ""
+
+#: src/metaboxes.php:287 data/template/front_ui_form.php:250
+msgid "Testimonial author"
+msgstr ""
+
+#: src/metaboxes.php:304
+msgid "Testimonial author picture url"
+msgstr ""
+
+#: src/metaboxes.php:299 data/template/front_ui_form.php:262
+msgid "Testimonial body"
+msgstr ""
+
+#: src/metaboxes.php:294 data/template/front_ui_form.php:256
+msgid "Testimonial rating"
+msgstr ""
+
+#: src/metaboxes.php:282 data/template/front_ui_form.php:244
+msgid "Testimonial title"
+msgstr ""
+
+#: src/metaboxes.php:309
+msgid "Testimonial video"
+msgstr ""
+
+#: src/metaboxes.php:314
+msgid "Testimonial video cover"
+msgstr ""
+
+#: data/template/front_ui_form.php:238
+msgid "Testimonial:"
+msgstr ""
+
+#: src/metaboxes.php:272
+msgid "Testimonials"
+msgstr ""
+
+#: data/template/front_ui_form.php:264
+msgid "Text"
+msgstr ""
+
+#: src/options.php:355
+msgid "The header and the footer only"
+msgstr ""
+
+#: src/options.php:158
+msgid "The map zoom (0-20)"
+msgstr ""
+
+#: data/widgets/profolio_filter/config.php:40
+msgid "This field affects the field below"
+msgstr ""
+
+#: src/options.php:686
+msgid ""
+"This language will be used in for the map and all locations of the website"
+msgstr ""
+
+#: src/options.php:696
+msgid "This option re-create area tags with new names."
+msgstr ""
+
+#: src/dynamic.php:170
+msgid ""
+"This page will output the map and your projects. This message will not be "
+"shown on the front-end."
+msgstr ""
+
+#: data/widgets/profolio_map/config.php:118
+msgid ""
+"This property disable any automatic UI behavior from the Google Maps API."
+msgstr ""
+
+#: src/metaboxes.php:603 data/widgets/profolio_media/config.php:29
+#: data/widgets/profolio_projects/config.php:35
+msgid "Three columns"
+msgstr ""
+
+#: src/metaboxes.php:79
+msgid "Timezone"
+msgstr ""
+
+#: data/template/front_ui_form.php:16 data/template/front_ui_form.php:247
+msgid "Title"
+msgstr ""
+
+#: src/options.php:290
+msgid "Title above form"
+msgstr ""
+
+#: src/options.php:216
+msgid "Title Color"
+msgstr ""
+
+#: src/metaboxes.php:654 data/widgets/profolio_projects/config.php:100
+msgid "Title color"
+msgstr ""
+
+#: src/options.php:214
+msgid "Title Font Size"
+msgstr ""
+
+#: data/widgets/profolio_map/elementor.php:135
+#: data/widgets/profolio_projects/elementor.php:158
+msgid "Title typography"
+msgstr ""
+
+#: src/options.php:262
+msgid "Top margin for pages"
+msgstr ""
+
+#: src/options.php:598
+msgid "Translate"
+msgstr ""
+
+#: src/options.php:693
+msgid "Translate area tags"
+msgstr ""
+
+#: src/options.php:690
+msgid "Translate industry"
+msgstr ""
+
+#: src/options.php:687
+msgid "Translate strings of the plugin"
+msgstr ""
+
+#: src/metaboxes.php:602 data/widgets/profolio_media/config.php:28
+#: data/widgets/profolio_projects/config.php:34
+msgid "Two columns"
+msgstr ""
+
+#: data/template/front_ui_form.php:45
+msgid "Type"
+msgstr ""
+
+#: src/options.php:142
+msgid "Type Address"
+msgstr ""
+
+#: src/options.php:460
+msgid "Type:"
+msgstr ""
+
+#: src/metaboxes.php:66 src/metaboxes.php:339 src/metaboxes.php:622
+#: data/widgets/profolio_media/config.php:42
+#: data/widgets/profolio_projects/config.php:58
+msgid "Unique ID"
+msgstr ""
+
+#: src/metaboxes.php:419 src/options.php:570
+msgid "URL"
+msgstr ""
+
+#: src/options.php:257
+msgid "Use location from:"
+msgstr ""
+
+#: src/options.php:322
+msgid "Username"
+msgstr ""
+
+#: src/metaboxes.php:332
+msgid "Uuid of the parent project"
+msgstr ""
+
+#: src/options.php:545
+msgid "Very Expensive, usually $50 and up"
+msgstr ""
+
+#: src/metaboxes.php:390
+msgid "Video"
+msgstr ""
+
+#: src/metaboxes.php:455
+msgid "Video Link"
+msgstr ""
+
+#: src/types.php:86
+msgid "View Media"
+msgstr ""
+
+#: src/types.php:47
+msgid "View Project"
+msgstr ""
+
+#: src/metaboxes.php:363
+msgid "Vuuid"
+msgstr ""
+
+#: data/template/project-single-modern.php:640
+#: data/template/project-single.php:616
+msgid "Watch Video"
+msgstr ""
+
+#: src/metaboxes.php:447
+msgid "Weight"
+msgstr ""
+
+#: src/options.php:115
+#, php-format
+msgid ""
+"When restricting your Geocoding API key, make sure to accept requests from "
+"your serve IP address: <b> %s</b>"
+msgstr ""
+
+#: src/options.php:116
+#, php-format
+msgid ""
+"When restricting your Maps JavaScript API Key, make sure to accept requests "
+"from your HTTP referrer:  <b> %s/*</b>"
+msgstr ""
+
+#: src/metaboxes.php:264 data/template/front_ui_form.php:229
+msgid "Year built"
+msgstr ""
+
+#: data/template/project-single-modern.php:389
+#: data/template/project-single.php:679
+msgid "Year built: "
+msgstr ""
+
+#: data/widgets/profolio_filter/config.php:32
+#: data/widgets/profolio_filter/config.php:39
+#: data/widgets/profolio_map/config.php:26
+#: data/widgets/profolio_map/config.php:76
+#: data/widgets/profolio_map/config.php:86
+#: data/widgets/profolio_map/config.php:95
+#: data/widgets/profolio_map/config.php:121
+#: data/widgets/profolio_map/config.php:129
+#: data/widgets/profolio_media/config.php:54
+#: data/widgets/profolio_media/config.php:61
+#: data/widgets/profolio_media/config.php:68
+#: data/widgets/profolio_projects/config.php:25
+#: data/widgets/profolio_projects/config.php:69
+#: data/widgets/profolio_projects/config.php:76
+#: data/widgets/profolio_projects/config.php:83
+#: data/widgets/profolio_projects/config.php:138
+#: data/widgets/profolio_projects/config.php:152
+#: data/widgets/profolio_projects/config.php:159
+msgid "Yes, please"
+msgstr ""
+
+#: src/options.php:689
+msgid ""
+"You can translate any text on the page. For examle: Original word | "
+"Translated word"
+msgstr ""
+
+#: data/template/front_ui_none.php:25
+msgid "You can't see this page"
+msgstr ""
+
+#: data/template/media-single-modern.php:92 data/template/media-single.php:77
+#: data/template/project-single-modern.php:464
+#: data/template/project-single-modern.php:532
+#: data/template/project-single-modern.php:624
+#: data/template/project-single-story-modern.php:298
+#: data/template/project-single-story.php:265
+#: data/template/project-single.php:340 data/template/project-single.php:386
+#: data/template/project-single.php:599
+msgid "Your browser does not support HTML5 video."
+msgstr ""
+
+#: src/options.php:481
+msgid "Your custom type"
+msgstr ""
+
+#: src/options.php:328
+msgid "Your sync key"
+msgstr ""
+
+#: src/leads.php:98
+msgid "Zip"
+msgstr ""
+
+#: src/options.php:521
+msgid "Zip/Postal Code"
+msgstr ""
+
+#: data/widgets/profolio_map/config.php:65
+msgid "Zoom"
+msgstr ""
+
+#: src/metaboxes.php:502 data/widgets/profolio_map/config.php:74
+msgid "Zoom to fit all markers"
+msgstr ""

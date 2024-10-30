@@ -1,0 +1,525 @@
+.profolio-form-title-page {
+	font-size: 35px;
+	line-height: normal;
+	font-weight: 500;
+}
+
+.profolio-add-file-form p:empty {
+	display: none;
+}
+
+.profolio-add-file-form .profolio-form-title {
+	font-size: 18px;
+	font-weight: bold;
+	margin-bottom: 15px;
+	margin-top: 35px;
+	color: #495157;
+}
+
+.profolio-add-file-form .profolio-form-divider {
+	background-color: #D5DADF;
+	opacity: .6;
+}
+
+.profolio-add-file-form .profolio-form-title:first-child {
+	margin-top: 0;
+}
+
+.profolio-add-file-form .profolio-inpt {
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-pack: justify;
+	-ms-flex-pack: justify;
+	justify-content: space-between;
+	margin-bottom: 10px;
+}
+
+.profolio-add-file-form .input-title {
+	display: inline-block;
+	font-size: 14px;
+	line-height: 35px;
+	color: #727D86;
+}
+
+.profolio-add-file-form .profolio-text-input {
+	display: inline-block;
+	height: 35px;
+	width: 60%;
+	background-color: #fff;
+	border: solid 1px #D5DADF;
+	border-radius: 3px;
+	padding: 0 10px;
+	font-size: 14px;
+	color: #727D86;
+}
+
+.profolio-add-file-form .profolio-check-frame {
+	margin-top: 3px;
+	-ms-flex-preferred-size: 60%;
+	flex-basis: 60%;
+}
+
+.profolio-add-file-form .profolio-check-frame .profolio-text-input {
+	width: 100%;
+}
+
+.profolio-add-file-form .profolio-textarea {
+	display: block;
+	-ms-flex-preferred-size: 60%;
+	width: 60%;
+	font-size: 14px;
+	border: solid 1px #D5DADF;
+	border-radius: 3px;
+	padding: 5px 10px;
+	margin-bottom: 15px;
+}
+
+.profolio-add-file-form .profolio-date-input {
+	width: 60%;
+	border-radius: 3px;
+	padding: 0 10px;
+	font-size: 14px;
+	background-color: #fff;
+	border: solid 1px #D5DADF;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	color: #727D86;
+}
+
+.profolio-add-file-form .profolio-textarea:focus,
+.profolio-add-file-form .profolio-date-input:focus,
+.profolio-add-file-form .profolio-text-input:focus {
+	outline: inherit;
+	-webkit-box-shadow: none;
+	box-shadow: none;
+}
+
+.profolio-add-new-project,
+.profolio-add-file-form .profolio-add-button {
+	width: 100%;
+	background-color: #A4AFB7;
+	text-transform: uppercase;
+	font-weight: 700;
+	border-radius: 3px;
+	border: none;
+	color: #fff;
+	height: 35px;
+	margin-bottom: 15px;
+	font-size: 12px;
+	padding: 0;
+}
+
+
+.profolio-add-new-project {
+	display: none;
+	margin-top: 20px;
+}
+
+.profolio-add-file-form .profolio-media-preview {
+	display: flex;
+	margin-bottom: 5px;
+}
+
+.profolio-add-file-form .profolio-media-preview img {
+	width: 60px;
+	height: 60px;
+	-o-object-fit: cover;
+	object-fit: cover;
+	-o-object-position: center;
+	object-position: center;
+	margin-right: 5px;
+	margin-bottom: 10px;
+}
+
+.profolio-add-file-form .select2-container--default.select2-container--focus .select2-selection--multiple,
+.profolio-add-file-form .select2-container .select2-selection--multiple {
+	border: solid 1px #D5DADF;
+	border-radius: 3px;
+}
+
+.profolio-add-file-form .select2-container--default .select2-selection--multiple .select2-selection__choice {
+	background-color: #ECF1F6;
+	border: none;
+	border-radius: 3px;
+	color: #727D86;
+	margin-top: 7px;
+	font-size: 14px;
+}
+
+.profolio-add-file-form .select2-results__option {
+	font-size: 14px;
+	color: #727D86;
+}
+
+.profolio-add-file-form .profolio-add-new-option {
+	width: 100%;
+	position: relative;
+}
+
+.profolio-add-file-form .profolio-delete-inpt {
+	position: absolute;
+	line-height: 35px;
+	width: 10px;
+	right: 30px;
+}
+
+.profolio-add-file-form .profolio-delete-inpt i {
+	color: #ddd;
+	font-size: 12px;
+	-webkit-transition: .3s;
+	transition: .3s;
+	-webkit-transition-timing-function: ease-in-out;
+	transition-timing-function: ease-in-out;
+}
+
+.profolio-add-file-form .profolio-delete-inpt:hover.profolio-delete-inpt i {
+	color: #5897fb;
+}
+
+.profolio-add-file-form .profolio-new-inpt-container {
+	width: 100%;
+	position: relative;
+	text-align: right;
+}
+
+.profolio-add-file-form .profolio-add-form-field {
+	display: block;
+	text-transform: uppercase;
+	font-weight: 800;
+	font-size: 10px;
+	position: relative;
+	text-align: right;
+	cursor: pointer;
+	color: #727D86;
+	-webkit-transform: translateY(-10px);
+	transform: translateY(-10px);
+}
+
+.profolio-add-file-form .profolio-add-form-field:hover {
+	color: #5897fb;
+}
+
+.profolio-add-file-form .wp-editor-wrap {
+	width: 60%;
+}
+
+
+.profolio-pre-img {
+	display: inline-block;
+	position: relative;
+}
+
+.profolio-pre-img .profolio-close-img {
+	display: block;
+	padding: 2px;
+	-webkit-transform: scale(0);
+	transform: scale(0);
+	background-color: #fff;
+	color: #727D86;
+	border-radius: 50%;
+	position: absolute;
+	right: -3px;
+	top: -6px;
+	cursor: pointer;
+	-webkit-transition: .3s;
+	transition: .3s;
+	-webkit-transition-timing-function: ease-in-out;
+	transition-timing-function: ease-in-out;
+}
+
+.profolio-pre-img .profolio-close-img:hover {
+	color: blueviolet;
+}
+
+.profolio-pre-img:hover .profolio-close-img {
+	-webkit-transform: scale(1);
+	transform: scale(1);
+}
+
+.datepicker--day-name {
+	color: blueviolet;
+}
+
+
+.profolio-add-file-form .select2-container .select2-selection--multiple .select2-selection__rendered {
+	display: block;
+}
+
+.profolio-add-file-form .select2-container .select2-search--inline .select2-search__field {
+	margin-top: 0;
+	height: 35px;
+}
+
+.profolio-select2-result .select2-results__option,
+.profolio-add-file-form .select2-results__option {
+	color: #727D86;
+	font-size: 14px;
+}
+
+.profolio-add-file-form .select2-dropdown {
+	border: 1px solid #D5DADF;
+}
+
+.profolio-add-file-form .select2-container--default .select2-selection--single {
+	border: 1px solid #D5DADF;
+	height: 35px;
+}
+
+.profolio-add-file-form .select2-container--default .select2-selection--single .select2-selection__rendered {
+	color: #727D86;
+	line-height: 35px;
+	font-size: 14px;
+}
+
+.profolio-add-file-form .select2-container--default .select2-selection--single .select2-selection__arrow {
+	height: 35px;
+}
+
+.profolio-add-file-form .profolio-form-divider,
+.profolio-add-file-form hr {
+	margin-bottom: 15px;
+}
+
+.profolio-ajax-form-loader {
+	width: 55px;
+	height: 55px;
+	background-image: url("../img/ajax-loader.svg");
+	background-repeat: no-repeat;
+	display: none;
+}
+
+.profolio-form-success {
+	color: #28a745;
+	font-size: 16px;
+	line-height: 35px;
+	font-weight: 600;
+	padding: 10px;
+	border: 1px solid #28a745;
+	display: none;
+}
+
+.profolio-form-success a {
+	display: block;
+}
+
+.profolio-form-error {
+	color: #8b0000;
+	font-size: 16px;
+	line-height: 35px;
+	font-weight: 600;
+	padding: 10px;
+	border: 1px solid #8b0000;
+	display: none;
+}
+
+.profolio-form-error.active,
+.profolio-form-success.active,
+.profolio-ajax-form-loader.active {
+	display: block;
+}
+
+
+.ui-datepicker {
+	background-color: #fff;
+	margin-top: 10px;
+	min-width: 300px;
+	border: solid 1px #ddd;
+	border-radius: 3px;
+	overflow: hidden;
+
+}
+
+.ui-datepicker-header {
+	width: 100%;
+	line-height: 35px;
+	background-color: #A4AFB7;
+	color: #fff;
+	margin-bottom: 10px;
+	text-align: center;
+	position: relative;
+}
+
+.ui-datepicker-prev {
+	position: absolute;
+	left: 15px;
+	visibility: hidden;
+	cursor: pointer;
+}
+
+.ui-datepicker-next {
+	position: absolute;
+	right: -5px;
+	visibility: hidden;
+	cursor: pointer;
+}
+
+.ui-datepicker-prev:before {
+	content: '<';
+	position: absolute;
+	visibility: visible;
+}
+
+.ui-datepicker-next:before {
+	content: '>';
+	position: absolute;
+	visibility: visible;
+}
+
+.ui-datepicker-calendar {
+	min-width: 300px;
+}
+
+.ui-datepicker-calendar thead tr {
+	margin-bottom: 15px;
+	line-height: 40px;
+	text-align: center;
+	padding: 0;
+}
+
+.ui-datepicker-calendar thead tr th span {
+	font-size: 14px;
+	font-weight: 400;
+	color: #727D86;
+}
+
+.ui-datepicker-calendar tr td {
+	border-radius: 3px;
+	text-align: center;
+	padding: 0;
+}
+
+.ui-datepicker-calendar tr td a {
+	color: #aaa;
+	padding: 10px;
+	display: inline-block;
+	line-height: 15px;
+	width: 35px;
+	border-radius: 3px;
+	font-size: 12px;
+}
+
+.ui-datepicker-calendar tr td:hover > a {
+	background-color: #eee;
+	text-decoration: none;
+}
+
+.ui-datepicker table, td, th {
+	border: none;
+}
+
+
+.profolio-hidden-part-btn {
+	cursor: pointer;
+	height: 35px;
+	border-radius: 3px;
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-pack: justify;
+	-ms-flex-pack: justify;
+	justify-content: space-between;
+	padding: 30px 0 35px;
+}
+
+.profolio-hidden-part-btn .profolio-form-title {
+	display: block;
+	margin: 0;
+	line-height: 35px;
+	-ms-flex-item-align: center;
+	align-self: center;
+}
+
+.profolio-hidden-part-btn i {
+	font-size: 14px;
+	-ms-flex-item-align: center;
+	align-self: center;
+	-webkit-transition: .3s;
+	transition: .3s;
+	-webkit-transition-timing-function: ease-in-out;
+	transition-timing-function: ease-in-out;
+}
+
+.profolio-hidden-part {
+	height: 0;
+	position: relative;
+	overflow: hidden;
+}
+
+.profolio-hidden-part-show {
+	height: auto;
+}
+
+.profolio-rotate {
+	-webkit-transform: rotate(180deg);
+	transform: rotate(180deg);
+}
+
+/*   */
+
+
+.profolio-add-button.profolio_add_images {
+	width: 60px;
+	height: 60px;
+	background-color: transparent;
+	color: gray;
+	font-size: 22px;
+	border: dashed 2px #ddd;
+	transition: .3s;
+	cursor: pointer;
+	display: inline-block;
+	margin-bottom: 0;
+}
+
+.profolio-add-button.profolio_add_images:hover {
+	border-color: gray;
+}
+
+.profolio-add-button.profolio-main-img-btn {
+	margin-bottom: 20px;
+	width: auto;
+	padding: 0 30px;
+	font-size: 12px;
+}
+
+.profolio-add-button.profolio-main-img-btn.hidden {
+	display: none;
+}
+
+.profolio-media-gallery {
+	display: flex;
+	margin-bottom: 40px;
+}
+
+.profolio-add-button.profolio_add_submit {
+	width: auto;
+	padding: 0 40px;
+	height: 50px;
+	cursor: pointer;
+	background-color: rgba(25, 118, 210, 1);
+	transition: .3s;
+}
+
+.profolio-add-button.profolio_add_submit:hover {
+	background-color: rgba(30, 136, 229, 1);
+}
+
+#wpadminbar #wp-admin-bar-localseomap_project_edit_link > .ab-item:before {
+	display: block;
+	content: '';
+	background: url(../img/icon-m.png) no-repeat !important;
+	width: 21px;
+	height: 26px;
+	background-size: cover;
+	top: 5px;
+}
+
+#wpadminbar #wp-admin-bar-localseomap_project_edit_link_profolio > .ab-item:before {
+	display: block;
+	content: '';
+	background: url(../img/icon-to-dashboard.png) no-repeat !important;
+	width: 21px;
+	height: 26px;
+	background-size: cover;
+	top: 3px;
+}

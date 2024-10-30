@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i&display=swap&subset=cyrillic,cyrillic-ext,greek,greek-ext,latin-ext,vietnamese');
+
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i&display=swap&subset=cyrillic,cyrillic-ext,greek,greek-ext,latin-ext,vietnamese');
+
+$font-1: 'Roboto', sans-serif;
+
+$font-2: 'Open Sans', sans-serif;
+
+$text-font-size: 14px;
+
+$dark-text-color: #263238;
+
+$white-text-color: #FFFAF5;
+
+$gray-text-color: #ECEEF1;
+
+$color-dark: rgba(38,50,56,1);
+$color-dark-hover: #37474F;
+$color-dark-transparent-9: rgba(38,50,56,.9);
+$color-dark-transparent-5: rgba(38,50,56,.5);
+
+$color-1: #673AB7;
+$color-1-hover: #7E57C2;
+
+$color-2: #FF7043;
+$color-2-hover: #FF8A65;
+
+$gradient-1: linear-gradient(-180deg, #2F9EE1 0%, #1565C0 100%);
+$gradient-1-hover: linear-gradient(-180deg, #57ADE0 0%, #4F82BD 100%);
+
+$shadow: 0px 5px 12px 0px rgba(0,0,20,.2);
+
+.elem-color-1 {
+  color: $color-1
+}
+
+.elem-color-2 {
+  color: $color-1
+}
+
+.elem-bg-color-1 {
+  background-color: $color-1
+}
+
+.elem-bg-color-2 {
+  background-color: $color-2
+}
+
+body {
+  font-family: $font-2;
+  color: $dark-text-color;
+}
+
+h1,h2,h3,h4,h5,h6,
+.h1,.h2,.h3,.h4,.h5,.h6  {
+  font-family: $font-1;
+  font-weight: 300;
+  margin-bottom: 15px;
+}
+
+.elem-text {
+  font-family: $font-2;
+  font-size: $text-font-size;
+  font-weight: 200px;
+  opacity: .7;
+}
+
+.elem-element-title {
+  text-transform: uppercase;
+  font-weight: 300;
+  font-size: $text-font-size;
+}
+
+.elem-large-text {
+  text-transform: uppercase;
+  font-size: $text-font-size + 50px;
+  font-family: $font-1;
+}
+
+b {
+  font-weight: 900;
+}
+
+ul {
+  padding: 0;
+  & li {
+    list-style-type: none;
+  }
+}
